@@ -1,0 +1,92 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20231128060446
+Username: SAKETHREDDI\saket
+RunAs User: SAKETHREDDI\saket
+Configuration Name: 
+Machine: SAKETHREDDI (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 2524
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is SakethGradeCalculator_Output.txt
+PS C:\Users\saket\OneDrive\Desktop\Software Engineering\week 3>  & 'C:\Users\saket\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\saket\AppData\Roaming\Code\User\workspaceStorage\0fa529f8eaea97fc398ac2368328d932\redhat.java\jdt_ws\jdt.ls-java-project\bin' 'GradeCalculator' 
+Enter the student's name: Saketh Reddy Sudireddy
+
+Enter your marks for Homework 1 that you scored for 20:20
+You got 20.0 out of 20 for Homework 1
+
+Enter your marks for Homework 2 that you scored for 20:19.5
+You got 19.5 out of 20 for Homework 2
+
+Enter your marks for Homework 3 that you scored for 20:25
+Error: Your marks should be below 20:
+
+Enter your marks for Homework 3 that you scored for 20:18
+You got 18.0 out of 20 for Homework 3
+
+Enter your marks for Homework 4 that you scored for 20:15
+You got 15.0 out of 20 for Homework 4
+
+Enter your marks for Homework 5 that you scored for 20:20
+You got 20.0 out of 20 for Homework 5
+
+Enter your marks for Homework 6 that you scored for 20:16.25
+You got 16.25 out of 20 for Homework 6
+
+Enter your marks for Homework 7 that you scored for 20:19
+You got 19.0 out of 20 for Homework 7
+
+Enter your marks for Homework 8 that you scored for 20:18
+You got 18.0 out of 20 for Homework 8
+
+Enter your marks for Quiz 1 that you scored for 10:10
+
+You scored 10.0 out of 10 for Quiz 1
+
+Enter your marks for Quiz 2 that you scored for 10:9.5
+
+You scored 9.5 out of 10 for Quiz 2
+
+Enter your marks for Quiz 3 that you scored for 10:12
+Error: Your marks should be below 10:
+
+Enter your marks for Quiz 3 that you scored for 10:9
+
+You scored 9.0 out of 10 for Quiz 3
+
+Enter your marks for Quiz 4 that you scored for 10:7
+
+You scored 7.0 out of 10 for Quiz 4
+
+Enter your marks for Quiz 5 that you scored for 10:9.25
+
+You scored 9.25 out of 10 for Quiz 5
+
+Enter your marks for Mid-Term Exam that you scored for 100:95
+You scored 95.0 out of 100 for Mid-Term Exam
+
+Enter your marks for Final Exam that you scored for 100:100
+You scored 100.0 out of 100 for Final Exam
+
+Enter your marks for Final Project that you scored for 100:90
+You scored 90.0 out of 100 for Final Project
+
+Student Name: Saketh Reddy Sudireddy
+
+The Final Percentage You Got Is: 94.44375000000001%
+
+The Final Grade You Got Is: A
+
+PS C:\Users\saket\OneDrive\Desktop\Software Engineering\week 3> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20231128060647
+**********************
